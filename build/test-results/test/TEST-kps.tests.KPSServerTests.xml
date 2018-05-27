@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kps.tests.KPSServerTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-05-23T23:07:13" hostname="DESKTOP-8HNF4PF" time="0.205">
+  <properties/>
+  <testcase name="testNetworkMessage" classname="kps.tests.KPSServerTests" time="0.023"/>
+  <testcase name="testBusinessFiguresOnNetwork" classname="kps.tests.KPSServerTests" time="0.03"/>
+  <testcase name="testSuccessfulParse" classname="kps.tests.KPSServerTests" time="0.006"/>
+  <testcase name="testNetworkMessage" classname="kps.tests.KPSServerTests" time="0.004"/>
+  <testcase name="testBusinessFiguresOnNetwork" classname="kps.tests.KPSServerTests" time="0.014"/>
+  <testcase name="testSuccessfulParse" classname="kps.tests.KPSServerTests" time="0.003"/>
+  <system-out><![CDATA[Server listening on port 9852
+Connection from /127.0.0.1
+Server listening on port 9852
+Connection from /127.0.0.1
+Server listening on port 9852
+Connection from /127.0.0.1
+Server listening on port 9852
+Connection from /127.0.0.1
+]]></system-out>
+  <system-err><![CDATA[Got a packet
+java.net.SocketException: socket closed
+	at java.net.DualStackPlainSocketImpl.accept0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketAccept(DualStackPlainSocketImpl.java:131)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.PlainSocketImpl.accept(PlainSocketImpl.java:199)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at kps.server.KPSServer.run(KPSServer.java:106)
+	at kps.tests.KPSServerTests.lambda$testNetworkMessage$1(KPSServerTests.java:186)
+	at java.lang.Thread.run(Thread.java:748)
+Got a packet
+Got a packet
+Got a packet
+Got a packet
+java.net.SocketException: socket closed
+	at java.net.DualStackPlainSocketImpl.accept0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketAccept(DualStackPlainSocketImpl.java:131)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.PlainSocketImpl.accept(PlainSocketImpl.java:199)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at kps.server.KPSServer.run(KPSServer.java:106)
+	at kps.tests.KPSServerTests.lambda$testBusinessFiguresOnNetwork$0(KPSServerTests.java:148)
+	at java.lang.Thread.run(Thread.java:748)
+Got a packet
+Got a packet
+Got a packet
+Got a packet
+Got a packet
+java.net.SocketException: socket closed
+	at java.net.DualStackPlainSocketImpl.accept0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketAccept(DualStackPlainSocketImpl.java:131)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.PlainSocketImpl.accept(PlainSocketImpl.java:199)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at kps.server.KPSServer.run(KPSServer.java:106)
+	at kps.tests.KPSServerTests.lambda$testNetworkMessage$1(KPSServerTests.java:186)
+	at java.lang.Thread.run(Thread.java:748)
+Got a packet
+Got a packet
+Got a packet
+Got a packet
+java.net.SocketException: socket closed
+	at java.net.DualStackPlainSocketImpl.accept0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketAccept(DualStackPlainSocketImpl.java:131)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.PlainSocketImpl.accept(PlainSocketImpl.java:199)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at kps.server.KPSServer.run(KPSServer.java:106)
+	at kps.tests.KPSServerTests.lambda$testBusinessFiguresOnNetwork$0(KPSServerTests.java:148)
+	at java.lang.Thread.run(Thread.java:748)
+Got a packet
+Got a packet
+Got a packet
+Got a packet
+]]></system-err>
+</testsuite>
