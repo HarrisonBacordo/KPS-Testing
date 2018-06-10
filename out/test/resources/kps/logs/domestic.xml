@@ -1,0 +1,549 @@
+<log>
+    <cost><company>Fake Trucks</company>
+        <to>Auckland, New Zealand</to>
+        <from>Hamilton, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Auckland, New Zealand</to>
+        <from>Rotorua, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Auckland, New Zealand</to>
+        <from>Palmerston North, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Auckland, New Zealand</to>
+        <from>Wellington, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Auckland, New Zealand</to>
+        <from>Christchurch, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Auckland, New Zealand</to>
+        <from>Dunedin, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Hamilton, New Zealand</to>
+        <from>Auckland, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Hamilton, New Zealand</to>
+        <from>Rotorua, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Hamilton, New Zealand</to>
+        <from>Palmerston North, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Hamilton, New Zealand</to>
+        <from>Wellington, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Hamilton, New Zealand</to>
+        <from>Christchurch, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Hamilton, New Zealand</to>
+        <from>Dunedin, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Rotorua, New Zealand</to>
+        <from>Auckland, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Rotorua, New Zealand</to>
+        <from>Hamilton, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Rotorua, New Zealand</to>
+        <from>Palmerston North, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Rotorua, New Zealand</to>
+        <from>Wellington, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Rotorua, New Zealand</to>
+        <from>Christchurch, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Rotorua, New Zealand</to>
+        <from>Dunedin, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Palmerston North, New Zealand</to>
+        <from>Auckland, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Palmerston North, New Zealand</to>
+        <from>Hamilton, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Palmerston North, New Zealand</to>
+        <from>Rotorua, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+    <cost><company>Fake Trucks</company>
+        <to>Palmerston North, New Zealand</to>
+        <from>Wellington, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Palmerston North, New Zealand</to>
+        <from>Christchurch, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Palmerston North, New Zealand</to>
+        <from>Dunedin, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Wellington, New Zealand</to>
+        <from>Auckland, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Wellington, New Zealand</to>
+        <from>Hamilton, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Wellington, New Zealand</to>
+        <from>Rotorua, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Wellington, New Zealand</to>
+        <from>Palmerston North, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Wellington, New Zealand</to>
+        <from>Christchurch, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Wellington, New Zealand</to>
+        <from>Dunedin, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Christchurch, New Zealand</to>
+        <from>Auckland, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Christchurch, New Zealand</to>
+        <from>Hamilton, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Christchurch, New Zealand</to>
+        <from>Rotorua, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Christchurch, New Zealand</to>
+        <from>Palmerston North, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Christchurch, New Zealand</to>
+        <from>Wellington, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Christchurch, New Zealand</to>
+        <from>Dunedin, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Dunedin, New Zealand</to>
+        <from>Auckland, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Dunedin, New Zealand</to>
+        <from>Hamilton, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Dunedin, New Zealand</to>
+        <from>Rotorua, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Dunedin, New Zealand</to>
+        <from>Palmerston North, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Airlines</company>
+        <to>Dunedin, New Zealand</to>
+        <from>Wellington, New Zealand</from>
+        <type>Air</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+    <cost><company>Fake Trucks</company>
+        <to>Dunedin, New Zealand</to>
+        <from>Christchurch, New Zealand</from>
+        <type>Land</type>
+        <weightcost>5</weightcost>
+        <volumecost>5</volumecost>
+        <maxWeight>200</maxWeight>
+        <maxVolume>200</maxVolume>
+        <duration>24</duration>
+        <frequency>36</frequency>
+        <day>Monday</day>
+    </cost>
+
+
+
+</log>
